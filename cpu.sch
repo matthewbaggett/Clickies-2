@@ -1833,8 +1833,8 @@ Standard 8-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 &lt;p&gt;USB-B-PTH is fully proven SKU : PRT-00139/CONN-08278
 &lt;p&gt;USB-miniB is fully proven SKU : PRT-00587
 &lt;p&gt;USB-A-PCB is untested.
-&lt;p&gt;USB-A-H is throughly reviewed, but untested. Spark Fun Electronics SKU : PRT-00437
-&lt;p&gt;USB-B-SMT is throughly reviewed, but untested. Needs silkscreen touching up.
+&lt;p&gt;USB-A-H is thoroughly reviewed, but untested. Spark Fun Electronics SKU : PRT-00437
+&lt;p&gt;USB-B-SMT is thoroughly reviewed, but untested. Needs silkscreen touching up.
 &lt;p&gt;USB-A-S has not been used/tested
 &lt;p&gt;USB-MB-H has not been used/tested
 &lt;P&gt;USB-MICROB has been used. CONN-09505</description>
